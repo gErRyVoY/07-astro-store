@@ -45,3 +45,15 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+
+# Astro Store
+
+## Instalación
+
+1. Clonar el repo
+2. `bun intall`
+3. Clonar .env.template y renombrarlo a .env
+4. CAmbiar las variable de entorno
+5. `bun dev`
+# 07-astro-store
